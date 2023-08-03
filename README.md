@@ -1,6 +1,6 @@
 # Strattonshire-Ventures-Assessment
 
-A simple project using The Movie DB using Kotlin and Android.
+A simple project using The Movie DB using Kotlin and Android for Mobile App Developer position at Strattonshire-Ventures.
 
 ## Development Process
 
